@@ -1,0 +1,38 @@
+Screen {
+    background: #020402;
+    color: #00ff66;
+    border: round #00ff66;
+    padding: 1 2;
+}
+
+#hestory {
+    color: #00ff66;
+    background: transparent;
+
+}
+
+#input {
+    height: 1;
+    background: transparent;
+}
+
+#prompet {
+    width: 1;
+    color: #00ff66;
+}
+
+Input {
+    background: transparent;
+    border: none;
+    color: #00ff66;
+}
+
+Input:focus {
+    background: transparent;
+    border: none;
+    color: #00ff66;
+}
+
+
+
+
