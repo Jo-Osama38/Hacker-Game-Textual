@@ -11,13 +11,6 @@ I created a hacking simulation game for a company called Zeus. I tried hard to m
 
 
 ---
-
-
-## 🕹️ How to Play
-
-Type commands into the terminal input.
-
----
 ## This image is explan everything 
 commands 
 Missions and more 
@@ -25,7 +18,7 @@ Missions and more
 ![Game Image](https://raw.githubusercontent.com/Jo-Osama38/Hacker-Game-Textual/main/image.png)
 
 
-## 👨‍💻 Author (Youssef Osama)
+##  Author (Youssef Osama)
 
 Created as a learning project for:
 - Terminal UI development
@@ -34,4 +27,4 @@ Created as a learning project for:
 
 ---
 
-## 🧩 Enjoy hacking ZEUS...
+##  Enjoy hacking ZEUS...
