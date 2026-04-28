@@ -22,7 +22,7 @@ Type commands into the terminal input.
 commands 
 Missions and more 
 
-([image.png](https://github.com/Jo-Osama38/Hacker-Game-Textual/blob/main/image.png))[Game Image] !
+(image.png)[Game Image]!
 
 
 ## 👨‍💻 Author (Youssef Osama)
