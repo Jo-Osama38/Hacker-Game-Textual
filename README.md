@@ -21,6 +21,7 @@ Type commands into the terminal input.
 ## This image is explan everything 
 commands 
 Missions and more 
+(image_hacker_game.png)[this]!
 
 
 ## 👨‍💻 Author (Youssef Osama)
